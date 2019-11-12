@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="FloatingHintEditLayout">
+        <attr name="fhelHintText" format="reference|string" />
+        <attr name="fhelHintInactiveColor" format="reference|color" />
+        <attr name="fhelHintActiveColor" format="reference|color" />
+        <attr name="fhelHintErrorColor" format="reference|color" />
+
+        <attr name="fhelErrorText" format="reference|string" />
+        <attr name="fhelErrorTextColor" format="reference|color" />
+
+        <attr name="fhelCornerRadius" format="reference|dimension" />
+
+        <attr name="fhelStrokeInactiveColor" format="reference|color" />
+        <attr name="fhelStrokeActiveColor" format="reference|color" />
+        <attr name="fhelStrokeErrorColor" format="reference|color" />
+    </declare-styleable>
+
+</resources>
