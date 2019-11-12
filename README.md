@@ -1,4 +1,5 @@
 # FloatingHintEditLayout
+[![Release](https://jitpack.io/v/UmerFarooque/FloatingHintEditLayout.svg)](https://jitpack.io/#UmerFarooque/FloatingHintEditLayout)
 
 </br>
 
