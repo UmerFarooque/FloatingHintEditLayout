@@ -33,7 +33,7 @@ allprojects {
 
 ```
 dependencies {
-    implementation 'com.github.UmerFarooque:FloatingHintEditLayout:Tag'
+    implementation 'com.github.UmerFarooque:FloatingHintEditLayout:0.1.0'
 }
 ```
 
